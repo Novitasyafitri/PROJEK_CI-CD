@@ -11,7 +11,7 @@
     <div class="max-w-md mx-auto">
         
         <h1 class="text-3xl font-extrabold text-center text-emerald-600 mb-8">
-           Hallo Selamat Datang di Fakta Unik Tumbuhan Yang Menarik
+          Hallo selamat datang di Fakta Unik Tumbuhan yang Menarik
         </h1>
 
         <div class="grid grid-cols-2 gap-4">
